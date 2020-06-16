@@ -1,0 +1,22 @@
+{
+  "name": "@xlayers/svg-codegen",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "@xlayers/sketch-lib": "*"
+  },
+  "main": "bundles/xlayers-svg-codegen.umd.js",
+  "module": "fesm5/xlayers-svg-codegen.js",
+  "es2015": "fesm2015/xlayers-svg-codegen.js",
+  "esm5": "esm5/xlayers-svg-codegen.js",
+  "esm2015": "esm2015/xlayers-svg-codegen.js",
+  "fesm5": "fesm5/xlayers-svg-codegen.js",
+  "fesm2015": "fesm2015/xlayers-svg-codegen.js",
+  "typings": "xlayers-svg-codegen.d.ts",
+  "metadata": "xlayers-svg-codegen.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
